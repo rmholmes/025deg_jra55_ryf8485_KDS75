@@ -21,7 +21,7 @@ submodels:
       input:
         - /g/data1/ua8/MOM/grids/025/topog/KDS75/
         - /g/data1/ua8/MOM/initial_conditions/WOA/025_KDS75
-        - ../../input/mom_025deg        
+        - mom_025deg        
       timestep: 1800
       ncpus: 1455
 
